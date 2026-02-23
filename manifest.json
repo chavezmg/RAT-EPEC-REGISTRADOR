@@ -1,6 +1,7 @@
 {
   "name": "Registrador RAT EPEC",
   "short_name": "RAT EPEC",
+  "description": "Sistema de registro offline para inspectores",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +10,8 @@
     {
       "src": "https://cdn-icons-png.flaticon.com/512/4345/4345573.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
